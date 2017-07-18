@@ -1,3 +1,5 @@
+This is an attempt to edit your master repo's description.
+
 This is kyle's edit
 
 This is a practice document for git. This is the initial text.
