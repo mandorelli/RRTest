@@ -1,1 +1,4 @@
 This is a practice document for git. This is the initial text.
+
+Part 2
+This is my first change. 
