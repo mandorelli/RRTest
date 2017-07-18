@@ -1,3 +1,5 @@
+This is kyle's edit
+
 This is a practice document for git. This is the initial text.
 
 Part 2
