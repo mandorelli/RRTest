@@ -1,0 +1,8 @@
+---
+title: "Git"
+author: "Dan Morelli"
+date: "7/18/2017"
+output: html_document
+---
+
+Here are some things to start things off
